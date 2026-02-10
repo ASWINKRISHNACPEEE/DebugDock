@@ -144,28 +144,3 @@ Includes severity charts, CVE summaries, and recommended fixes.
 | Before/After image comparison    | Run on all OSes (limited support)  |
 | Generate visual reports          | Work without Trivy dependency      |
 
----
-
-## 🛡️ License
-
-**MIT License**
-Developed under open-source standards for community use.
-
----
-
-## 👥 Contributors
-
-* **Dan [@dannsidd]** – Developer & Maintainer
-
----
-
-## 🌐 Project Links
-
-* 📦 [GitHub Repository](https://github.com/dannsidd/dockascanx)
-* 🧰 [Trivy Documentation](https://aquasecurity.github.io/trivy/)
-* ⚙️ [Ready Tensor Page (if applicable)](https://readytensor.ai/)
-
----
-
-
-
